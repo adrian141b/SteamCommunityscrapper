@@ -1,6 +1,13 @@
 # SteamCommunityscrapper
 Scrapper for SteamCommunity (all data)
 
+Requiremets:
+-Python
+-Selenium 4.xx
+-BeautifulSoup
+-webdriver
+
+
 
 With this scrapper you will download all the data from SteamCommunity, the scrapper works, the data is saved in a JSON file (at the moment code return:
 -post_data (all data)
